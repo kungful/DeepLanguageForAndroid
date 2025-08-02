@@ -1,13 +1,10 @@
 # ComfyApp
 
-ComfyApp 是一个示例 Android 应用程序，展示了基本的 UI 导航和结构。该项目可作为开发具有清晰架构的更复杂 Android 应用程序的起点。
+## 下载
 
-## 功能
+您可以从以下链接下载 APK 文件：
+[DeepLanguageForAndroid.apk](https://github.com/kungful/DeepLanguageForAndroid/releases/download/1.0/DeepLanguageForAndroid.apk)
 
-*   **导航抽屉：** 轻松在应用程序的不同部分之间导航。
-*   **主页、图库和幻灯片片段：** 占位符片段，用于展示不同的内容区域。
-*   **基本 UI 元素：** 演示常见的 Android UI 组件和布局。
-*   **Material Design：** 利用 Material Design 原则，提供现代化的外观和感觉。
 
 ## 安装
 
@@ -42,6 +39,7 @@ ComfyApp 是一个示例 Android 应用程序，展示了基本的 UI 导航和�
 *   使用导航抽屉在不同部分之间导航。
 *   浏览主页、图库和幻灯片片段中的占位符内容。
 
+
 ## 许可证
 
 根据 MIT 许可证分发。有关更多信息，请参阅 `LICENSE` 文件。
@@ -53,7 +51,11 @@ ComfyApp 是一个示例 Android 应用程序，展示了基本的 UI 导航和�
 
 # ComfyApp
 
-ComfyApp is a sample Android application demonstrating basic UI navigation and structure. This project serves as a starting point for developing more complex Android applications with a clean architecture.
+## Download
+
+You can download the APK file from the following link:
+[DeepLanguageForAndroid.apk](https://github.com/kungful/DeepLanguageForAndroid/releases/download/1.0/DeepLanguageForAndroid.apk)
+
 
 ## Features
 
@@ -98,5 +100,3 @@ Once the app is installed, you can:
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-
