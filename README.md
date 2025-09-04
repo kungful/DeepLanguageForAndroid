@@ -3,7 +3,7 @@
 ## 下载
 
 您可以从以下链接下载 APK 文件：
-[DeepLanguageForAndroid.apk](https://github.com/kungful/DeepLanguageForAndroid/releases/download/1.0/DeepLanguageForAndroid.apk)
+[DeepLanguageForAndroid.apk](https://github.com/kungful/DeepLanguageForAndroid/releases/tag/V1.2)
 
 
 ## 安装
