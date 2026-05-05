@@ -1,8 +1,7 @@
 # 使用deepseek llm模型api辅助造句，无限扩展单词
 
 ## 下载
-最新代码也打包在发布版本那里了
-您可以从以下链接下载 APK 文件：
+最新代码zip和apk也打包在发布版本那里了，您可以从以下链接下载 APK 文件：
 [DeepLanguageForAndroid.apk](https://github.com/kungful/DeepLanguageForAndroid/releases/download/v3.1.1/app-debug.apk)
 
 
